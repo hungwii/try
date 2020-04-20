@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
 
-p {
-    position: absolute;
-    background-origin: padding-box;
+li {
+    margin: 100px;
 }
