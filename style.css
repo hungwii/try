@@ -1,1 +1,4 @@
-hwllo
+p {
+    position: absolute;
+    background-origin: padding-box;
+}
